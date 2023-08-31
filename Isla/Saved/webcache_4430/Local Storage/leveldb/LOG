@@ -1,2 +1,3 @@
-2023/08/30-20:58:19.896 1020 Creating DB D:/Documents/CursitosOnline/Environments/ProyectoUnreal/Isla/Isla/Isla/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2023/08/30-20:58:19.903 1020 Reusing MANIFEST D:/Documents/CursitosOnline/Environments/ProyectoUnreal/Isla/Isla/Isla/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/08/30-21:13:05.662 8044 Reusing MANIFEST D:/Documents/CursitosOnline/Environments/ProyectoUnreal/Isla/Isla/Isla/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/08/30-21:13:05.663 8044 Recovering log #3
+2023/08/30-21:13:05.663 8044 Reusing old log D:/Documents/CursitosOnline/Environments/ProyectoUnreal/Isla/Isla/Isla/Saved/webcache_4430\Local Storage\leveldb/000003.log 
